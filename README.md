@@ -1,7 +1,6 @@
 # One Month Rails
 
-This is the pinteresting sample application for
-[*One Month Rails*](http://onemonthrails.com)
+This is the pinteresting sample #2 part of GitHub Dance
 
-by [Mattan Griffel](http://mattangriffel.com)
+by Jay Peterson
 
